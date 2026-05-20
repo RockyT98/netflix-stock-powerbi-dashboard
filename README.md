@@ -122,10 +122,12 @@ Domanda business:
 project/
 ├── data/
 │   └── NFLX.csv
+│
 ├── screenshots/
 │   ├── analisi_prezzi.png
 │   ├── overview.png
 │   └── volume.png
+│
 ├── netflix_stock_dashboard.pbix
 │   
 └── README.md
