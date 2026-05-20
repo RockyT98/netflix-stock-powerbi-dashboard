@@ -126,8 +126,8 @@ project/
 │   ├── analisi_prezzi.png
 │   ├── overview.png
 │   └── volume.png
-├── powerbi/
-│   └── netflix_stock_dashboard.pbix
+├── netflix_stock_dashboard.pbix
+│   
 └── README.md
 ```
 
