@@ -1,0 +1,10 @@
+# Dataset
+data/
+
+# File temporanei Power BI
+*.tmp
+*.bak
+
+# File sistema operativo
+.DS_Store
+Thumbs.db
